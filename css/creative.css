@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2016 Start Bootstrap
+ * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 html,
@@ -413,4 +413,13 @@ img::-moz-selection {
 }
 body {
   webkit-tap-highlight-color: #222222;
+}
+iframe {
+  width: 100%;
+  height: 400px;
+}
+.features {
+  text-align: left;
+  margin: 0 auto 10px;
+  max-width: 35em;
 }
